@@ -24,11 +24,7 @@ def extractPercent(s):
   print("Tests:")
   print(tests)
 
-
-
-
-
-
+# example input
 str_input = """
 The model will be running on cuda:0 device
 For epoch 1 the train accuracy is 30 % the test accuracy over the whole test set is 30 %
