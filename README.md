@@ -9,4 +9,4 @@ Contributors:
 - Fenyi Shen
 - Henry Ho 
 - Rachael Yu
-- William Wong (z5205428) 
+- William Wong 
